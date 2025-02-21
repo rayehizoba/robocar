@@ -1,7 +1,7 @@
 **Building an ESP32-Based RC Car Using Design Patterns**
 
 ### **Introduction**
-Creating an RC car with an ESP32, TT motors, and a game controller is an exciting project that combines software engineering principles with embedded systems. To ensure our code is **scalable, maintainable, and configurable**, we will employ key software **design patterns** such as **Strategy, Observer, Singleton, Factory, and Command**. This post provides a structured approach to building an **object-oriented** and **highly modular** RC car system.
+Creating an RC car with an ESP32, TT motors, and a game controller is an exciting project that combines software engineering principles with embedded systems. To ensure our code is **scalable, maintainable, and configurable**, we will employ key software **design patterns** such as **Strategy, Observer, Singleton, Factory, and Command**. This project provides a structured approach to building an **object-oriented** and **highly modular** RC car system.
 
 ---
 
